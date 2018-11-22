@@ -1,0 +1,20 @@
+{
+  "name": "chanh",
+  "description": "du an web ban chanh",
+  "main": "index.js",
+  "authors": [
+    "vo ngoc minh"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vnm1811/lemon",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.5.0"
+  }
+}
